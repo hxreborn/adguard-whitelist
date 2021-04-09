@@ -3,9 +3,10 @@
 @@||www.godaddy.com^
 @@||track.effiliation.com^
 @@||s.click.aliexpress.com^
-
 !Binance android app
 @@||binance.com^
-
 !Banco Santander android app
 @@||jpush.binance.im^$important
+!LoteriasPRO android app
+@@||acp.loteriasyapuestas.es^$important
+@@||loteriasyapuestas.es^$important
