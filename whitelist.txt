@@ -10,3 +10,6 @@
 !LoteriasPRO android app
 @@||acp.loteriasyapuestas.es^$important
 @@||loteriasyapuestas.es^$important
+!anality android tv app
+@@||ipinfo.io^$important
+@@||pro.ip-api.com^$important
