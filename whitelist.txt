@@ -13,3 +13,7 @@
 !anality android tv app
 @@||ipinfo.io^$important
 @@||pro.ip-api.com^$important
+!LinkedIn statics
+@@||media-exp1.licdn.com^$important
+@@||media.licdn.com^$important
+@@||static-exp1.licdn.com^$important
