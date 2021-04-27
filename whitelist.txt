@@ -18,3 +18,6 @@
 @@||media.licdn.com^$important
 @@||static-exp1.licdn.com^$important
 @@||dms.licdn.com^$important
+!Some accept-cookies popups (blank page otherwise)
+@@||sdk.privacy-center.org^$important
+@@||sdk-amp.privacy-center.org^$important
