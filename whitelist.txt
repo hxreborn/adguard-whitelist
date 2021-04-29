@@ -10,6 +10,8 @@
 !LoteriasPRO android app
 @@||acp.loteriasyapuestas.es^$important
 @@||loteriasyapuestas.es^$important
+!Comprobar primitiva website
+@@||www.primitivacomprobar.es^$important
 !anality android tv app
 @@||ipinfo.io^$important
 @@||pro.ip-api.com^$important
