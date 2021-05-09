@@ -24,8 +24,11 @@
 @@||sdk.privacy-center.org^$important
 @@||sdk-amp.privacy-center.org^$important
 !Veepee android app and web app
-@@||m.veepee.es^$important
 @@||content.services.preprod.vente-privee.com^$important
 @@||content.services.vente-privee.com^$important
 @@||data.services.vente-privee.com^$important
 @@||www.veepee.fr^$important
+@@||m.veepee.es^$important
+@@||www.veepee.es^$important
+@@||www.veepee.com^$important
+@@||static.vente-privee.com^$important
