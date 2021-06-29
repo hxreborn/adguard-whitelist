@@ -33,3 +33,12 @@
 @@||www.veepee.es^$important
 @@||www.veepee.com^$important
 @@||static.vente-privee.com^$important
+!Double check this shit is blocked in case of list errors
+||www.googleadservices.com^$important
+||doubleclick.net^$important
+||securepubads.g.doubleclick.net^$important
+!Luz y gas app
+@@||bywe2.byside.com^$important
+@@||p.smrk.io^$important
+!Pinterest
+@@||www.pinterest.es^$important
