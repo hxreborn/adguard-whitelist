@@ -42,3 +42,6 @@
 @@||p.smrk.io^$important
 !Pinterest
 @@||www.pinterest.es^$important
+@@||s.pinimg.com^$important
+@@||v.pinimg.com^$important
+@@||i.pinimg.com^$important
