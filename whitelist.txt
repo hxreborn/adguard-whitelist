@@ -45,3 +45,8 @@
 @@||s.pinimg.com^$important
 @@||v.pinimg.com^$important
 @@||i.pinimg.com^$important
+!Bankinter android app
+@@||device-api.urbanairship.com^$important
+@@||combine.urbanairship.com^$important
+@@||c00150-dl.urbanairship.com^$important
+@@||remote-data.urbanairship.com^$important
