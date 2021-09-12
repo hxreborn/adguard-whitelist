@@ -50,3 +50,6 @@
 @@||combine.urbanairship.com^$important
 @@||c00150-dl.urbanairship.com^$important
 @@||remote-data.urbanairship.com^$important
+!Xiaomi Air Fryer
+@@||de.api.io.mi.com^$important
+@@||sts.api.io.mi.com^$important
