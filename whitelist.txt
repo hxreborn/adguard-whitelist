@@ -9,6 +9,7 @@
 @@||s.click.aliexpress.com^
 !Binance android app
 @@||binance.com^
+@@||binance.me^$important
 !Banco Santander android app
 @@||jpush.binance.im^$important
 !LoteriasPRO android app
