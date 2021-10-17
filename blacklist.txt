@@ -1,0 +1,4 @@
+!Double check this shit is blocked in case of list errors
+||www.googleadservices.com^$important
+||doubleclick.net^$important
+||securepubads.g.doubleclick.net^$important
