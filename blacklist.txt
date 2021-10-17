@@ -2,3 +2,4 @@
 ||www.googleadservices.com^$important
 ||doubleclick.net^$important
 ||securepubads.g.doubleclick.net^$important
+||rr1---sn-gqn-h5ql.googlevideo.com^$important
