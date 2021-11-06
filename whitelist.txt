@@ -6,6 +6,9 @@
 !Binance android app
 @@||binance.com^
 @@||binance.me^$important
+@@||binance.me^$important
+@@||dstream.binance.me^$important
+@@||fstream.binance.me^$important
 !Banco Santander android app
 @@||jpush.binance.im^$important
 !LoteriasPRO android app
@@ -50,3 +53,7 @@
 !Xiaomi Air Fryer
 @@||de.api.io.mi.com^$important
 @@||sts.api.io.mi.com^$important
+!Glovo android app
+@@||glovoapp-res.cloudinary.com^$important
+!Chollometro
+@@||chollometro.digidip.net^$important
