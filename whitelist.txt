@@ -59,3 +59,5 @@
 @@||chollometro.digidip.net^$important
 !Zepp app location api
 @@||abroad.apilocate.amap.com^$important
+!Twitter links
+@@||t.co^$important
