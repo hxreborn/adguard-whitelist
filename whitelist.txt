@@ -25,6 +25,8 @@
 @@||media.licdn.com^$important
 @@||static-exp1.licdn.com^$important
 @@||dms.licdn.com^$important
+@@||dms-exp2.licdn.com^$important
+@@||static.licdn.com^$important
 !Some accept-cookies popups (blank page otherwise)
 @@||sdk.privacy-center.org^$important
 @@||sdk-amp.privacy-center.org^$important
@@ -61,5 +63,3 @@
 @@||abroad.apilocate.amap.com^$important
 !Twitter links
 @@||t.co^$important
-!LinkedIn statics
-@@||dms-exp2.licdn.com^$important
