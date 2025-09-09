@@ -5,6 +5,6 @@
 <h3 align="center">  Personal list of domain exclusions for
   <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a></h3>
 <p align="center">
-  Free and open source, powerful network-wide ads & trackers blocking DNS server.
+  Free and open source, powerful network-wide ads & trackers blocking DNS server
   <a href=""></a>
 </p>
